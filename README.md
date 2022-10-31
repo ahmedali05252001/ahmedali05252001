@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedALI
-- 👀 I'm studying Computer Engineering in Trakya University.
+- 👀 I'm studying Computer Engineering at Trakya University.
 - 🌱 I’m currently learning java,spring
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
